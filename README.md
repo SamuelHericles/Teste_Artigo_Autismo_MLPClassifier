@@ -5,15 +5,15 @@ foi para publicação de um artigo.
 
 # Dependências
 
-* pandas para manipulação do dataframe;
-* numpy  para biblioteca de calculo cientifico;
-* matplotlib para biblioteca de visualização;
-* eli5 para biblioteca que depurar algoritmos classificadores;
-* warnings para biblioteca de warnings;
-* sklearn para função básicas de estatíticas;
-* pprint para biblioteca para imprimir de maneira mais elegante as estruturas de dados;
-* IPython.core.display para manipular e visualizar marcações html;
-* seaborn para visualização de dados e gráficos mais elaborados.
+* **pandas** para manipulação do dataframe;
+* **numpy**  para biblioteca de calculo cientifico;
+* **matplotlib** para biblioteca de visualização;
+* **eli5** para biblioteca que depurar algoritmos classificadores;
+* **warnings** para biblioteca de warnings;
+* **sklearn** para função básicas de estatíticas;
+* **pprint** para biblioteca para imprimir de maneira mais elegante as estruturas de dados;
+* **IPython.core.display** para manipular e visualizar marcações html;
+* **seaborn** para visualização de dados e gráficos mais elaborados.
 
 # Guia de instalação
 
